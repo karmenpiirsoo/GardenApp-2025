@@ -9,7 +9,6 @@ function AddProduct() {
   const titleRef = useRef();
   const priceRef = useRef();
   const descriptionRef = useRef();
-  const categoryRef = useRef();
   const imageRef = useRef();
 
   useEffect(() => {
@@ -24,12 +23,7 @@ function AddProduct() {
     "title": titleRef.current.value,
     "price": Number(priceRef.current.value),
     "description": descriptionRef.current.value,
-    "category": categoryRef.current.value,
     "image": imageRef.current.value,
-    "rating": {
-      "rate": 0,
-      "count": 0
-      }
     })
     fetch(url, {method: "PUT", body: JSON.stringify(products)})
     toast.success("Product added!")
@@ -37,7 +31,6 @@ function AddProduct() {
     titleRef.current.value = "";
     priceRef.current.value = "";
     descriptionRef.current.value = "";
-    categoryRef.current.value = "";
     imageRef.current.value = "";
   }
 
@@ -53,7 +46,6 @@ function AddProduct() {
       <label>Product description</label><br />
       <input ref={descriptionRef} type="text" /><br /><br />
       <label>Product category</label><br />
-      <input ref={categoryRef} type="text" /><br /><br />
       <label>Product image</label><br />
       <input ref={imageRef} type="text" /><br /><br />
       <button onClick={addProduct}>Add product</button>

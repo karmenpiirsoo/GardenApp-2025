@@ -9,9 +9,6 @@ function AdminHome() {
       <Link to='/admin/add-product'>
       <button>Add product</button>
       </Link>
-      <Link to='admin/maintain-categories'>
-      <button>Maintain categories</button>
-      </Link>
     </div>
   )
 }

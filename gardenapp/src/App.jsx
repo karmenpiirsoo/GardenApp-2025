@@ -2,7 +2,6 @@ import './App.css'
 import NavigationBar from './components/NavigationBar'
 import { Route, Routes} from 'react-router-dom'
 import HomePage from './pages/public/HomePage'
-import Blog from './pages/public/Blog'
 import Cart from './pages/public/Cart'
 import { ContactUs } from './pages/public/ContactUs'
 import NotFound from './pages/public/NotFound'
@@ -13,12 +12,12 @@ import YourGarden from './pages/public/YourGarden'
 import AdminHome from './pages/admin/AdminHome'
 import AddProduct from './pages/admin/AddProduct'
 import EditProduct from './pages/admin/EditProduct'
-import MaintainCategories from './pages/admin/MaintainCategories'
 import MaintainProducts from './pages/admin/MaintainProducts'
 import Login from './pages/auth/Login'
 import Signup from './pages/auth/Signup'
 import { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import Calendar from './pages/public/Calendar'
 
 
 function App() {
@@ -44,10 +43,10 @@ function App() {
         <button onClick={lightMode}>Light</button>
         </span>
         <br /><br />
-      <div className="text">Sinu aed sinu taskus</div>
+      <div className="text">Your garden in your pocket</div>
         <Routes>
           <Route path='' element={ <HomePage /> } />
-          <Route path='blog' element={ <Blog /> } />
+          <Route path='calendar' element={ <Calendar /> } />
           <Route path='cart' element={ <Cart /> } />
           <Route path='contactus' element={ <ContactUs /> } />
           <Route path='shop' element={ <Products /> } />
@@ -58,7 +57,6 @@ function App() {
           <Route path='admin' element={ <AdminHome /> } />
           <Route path='admin/add-product' element={ <AddProduct /> } />
           <Route path='admin/edit-product/:index' element={ <EditProduct /> } />
-          <Route path='admin/maintain-categories' element={ <MaintainCategories /> } />
           <Route path='admin/maintain-products' element={ <MaintainProducts /> } />
 
           <Route path='login' element={ <Login /> } />

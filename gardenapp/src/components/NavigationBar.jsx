@@ -19,7 +19,7 @@ function NavigationBar() {
             <NavDropdown title="Your garden" id="your-garden">
               <NavDropdown.Item as={Link} to="/your-garden">Your garden</NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item as={Link} to="/blog">Blog</NavDropdown.Item>
+              <NavDropdown.Item as={Link} to="/calendar">Calendar</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item as={Link} to="/services">Services</NavDropdown.Item>
             </NavDropdown>
