@@ -1,0 +1,38 @@
+.product {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10%;
+    border-bottom: 1px solid lightgray;
+    padding: 10px 0
+}
+
+.name {
+    transform: translateY(20%);
+    width: 200px;
+}
+
+.price {
+    transform: translateY(20%);
+    width: 80px;
+}
+
+
+.button {
+    background-color: pink !important;
+}
+
+
+.amount {
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
+
+.amount div {
+    transform: translateY(20%)
+}
+
+.total{
+    transform: translateY(20%);
+    width: 100px;
+}

@@ -1,0 +1,34 @@
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    background-color: lightgray;
+}
+
+.product {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.image {
+    width: 100px;
+    height: 150px;
+    transition: 1s;
+}
+.product:hover .image {
+    transform: scale(1.5);
+    transition: 1s;
+}
+
+.title {
+    font-size: 14px;
+    height: 60px;
+    color: black;
+}
+
+.price {
+    background-color: gray;
+    padding: 10px;
+    color: black;
+    border-radius: 10px 0px 10px 10px;
+}
+
