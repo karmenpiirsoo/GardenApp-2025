@@ -38,7 +38,7 @@ function EditProduct() {
   }
   
   if (products.length === 0)
-    {return <div>Loading ...</div>}   // otsib andmebaasist, ja laeb
+    {return <div>Loading ...</div>} 
 
   if (found === undefined)
     {return <div>Product not found ...</div>} 

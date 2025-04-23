@@ -1,202 +1,302 @@
 [
-    {
-        "Location": "Abja-Paluoja",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Emmaste",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Haapsalu",
-        "Hardiness Zone": "Zone 7b: -15°C to -12.2°C"
-    },
-    {
-        "Location": "Hullo",
-        "Hardiness Zone": "Zone 8a: -12.2°C to -9.4°C"
-    },
-    {
-        "Location": "Kallaste",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Kardla",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Karjakula",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Karksi-Nuia",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Kasmu",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Keila",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Kilingi-Nomme",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Kodila",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    },
-    {
-        "Location": "Kohila",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Kohtla-Jarve",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Kudjape",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Kuivastu",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Kunda",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Kuressaare",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Lihula",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Linakula",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Loksa",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Lumanda",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Maardu",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Moisakula",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Mustvee",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Narva",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Paide",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Parnu",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Pilguse",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Rakke",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    },
-    {
-        "Location": "Rakvere",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Rapina",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Rapla",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    },
-    {
-        "Location": "Riisipere",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Ristna",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Sakla",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Sarevere",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Tabasalu",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Tallinn",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Tapa",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Tartu",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    },
-    {
-        "Location": "Torva",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Tyuri",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Vaida",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Valga",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    },
-    {
-        "Location": "Vandra",
-        "Hardiness Zone": "Zone 6a: -23.3°C to -20.6°C"
-    },
-    {
-        "Location": "Varbla",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Viljandi",
-        "Hardiness Zone": "Zone 6b: -20.6°C to -17.8°C"
-    },
-    {
-        "Location": "Voma",
-        "Hardiness Zone": "Zone 7a: -17.8°C to -15°C"
-    },
-    {
-        "Location": "Voru",
-        "Hardiness Zone": "Zone 5a: -28.9°C to -26.1°C"
-    }
+  {
+    "location": "Abja-Paluoja",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Emmaste",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Haapsalu",
+    "hardinessZone": "Zone 7b: -15C to -12.2C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Hullo",
+    "hardinessZone": "Zone 8a: -12.2C to -9.4C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Kallaste",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kardla",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Karjakula",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Karksi-Nuia",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Kasmu",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Keila",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kilingi-Nomme",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kodila",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Oct. 21 - Oct. 31",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kohila",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kohtla-Jarve",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Kudjape",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 11 - Apr. 20"
+  },
+  {
+    "location": "Kuivastu",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 11 - Apr. 20"
+  },
+  {
+    "location": "Kunda",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Kuressaare",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 11 - Apr. 20"
+  },
+  {
+    "location": "Lihula",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Linakula",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 11 - Apr. 20"
+  },
+  {
+    "location": "Loksa",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Lumanda",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Dec. 1 - Dec. 10",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Maardu",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Moisakula",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Mustvee",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Narva",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 11 - May 20"
+  },
+  {
+    "location": "Paide",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Parnu",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Pilguse",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "FirstFrost": "Dec. 1 - Dec. 10",
+    "LastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Rakke",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Rakvere",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Rapina",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 11 - May 20"
+  },
+  {
+    "location": "Rapla",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Oct. 21 - Oct. 31",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Riisipere",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Ristna",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Sakla",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Sarevere",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Tabasalu",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 11 - May 20"
+  },
+  {
+    "location": "Tallinn",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Tapa",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Tartu",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Oct. 21 - Oct. 31",
+    "lastFrost": "May 11 - May 20"
+  },
+  {
+    "location": "Torva",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 11 - May 20"
+  },
+  {
+    "location": "Tyuri",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Vaida",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Valga",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Oct. 21 - Oct. 31",
+    "lastFrost": "May 21 - May 31"
+  },
+  {
+    "location": "Vandra",
+    "hardinessZone": "Zone 6a: -23.3C to -20.6C",
+    "firstFrost": "Nov. 1 - Nov. 10",
+    "lastFrost": "May 1 - May 10"
+  },
+  {
+    "location": "Varbla",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 11 - Apr. 20"
+  },
+  {
+    "location": "Viljandi",
+    "hardinessZone": "Zone 6b: -20.6C to -17.8C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Voma",
+    "hardinessZone": "Zone 7a: -17.8C to -15C",
+    "firstFrost": "Nov. 21 - Nov. 30",
+    "lastFrost": "Apr. 21 - Apr. 30"
+  },
+  {
+    "location": "Voru",
+    "hardinessZone": "Zone 5a: -28.9C to -26.1C",
+    "firstFrost": "Nov. 11 - Nov. 20",
+    "lastFrost": "May 21 - May 31"
+  }
 ]

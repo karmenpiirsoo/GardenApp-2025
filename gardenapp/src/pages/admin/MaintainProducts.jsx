@@ -29,9 +29,7 @@ function MaintainProducts() {
               <th>Title</th>
               <th>Price</th>
               <th>Description</th>
-              <th>Category</th>
               <th>Image</th>
-              <th>Rating</th>
               <th>Delete</th>
               <th>Edit product</th>
             </tr>
@@ -44,7 +42,6 @@ function MaintainProducts() {
               <td>{product.price}€</td>
               <td>{product.description}</td>
               <td><img key={product.image} className='image' src={product.image} alt="" /></td>
-              <td>{product.rating.rate}</td>
               <td><button onClick={() => remove(index)}>X</button></td>
               <td>
               <Link to={"/admin/edit-product/" + product.id}>

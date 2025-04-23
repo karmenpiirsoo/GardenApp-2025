@@ -33,7 +33,6 @@ function SingleProduct() {
       <div>{found.price}</div>
      <br />
       <div>{found.description}</div><br /><br /><br />
-      <div>{found.category}</div>
     </div>
   )
 }

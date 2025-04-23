@@ -10,9 +10,9 @@ function Products() {
  
   
   useEffect(() => {
-      fetch(productUrl) // eraldi datas json faili ei tule, vaid info on plves databaasis
-      .then(res => res.json()) // võtab kogu tagastuse, mis siit lehelt tuleb (metainfo)
-      .then(json => setProducts(json || [])) // mille pärast me päriselt seda teeme , alati kasutada mõlemat .then'i!
+      fetch(productUrl) 
+      .then(res => res.json()) 
+      .then(json => setProducts(json || [])) 
     }, []);
 
 

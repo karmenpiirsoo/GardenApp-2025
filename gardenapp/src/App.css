@@ -36,6 +36,13 @@
   min-height: 100vh;
   }
 
+  .light button,
+  .light {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+  }
+
   .menu {
     display: flex;
   }
@@ -64,7 +71,7 @@
 }
 
 .picture-garden {
-  width: 400px;
+  width: 650px;
   border-radius: 10px;
 }
 

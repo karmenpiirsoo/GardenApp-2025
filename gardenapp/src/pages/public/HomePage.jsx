@@ -4,7 +4,7 @@ import React from 'react'
 function HomePage() {
   return (
     <div>
-      <img className="picture" src="/garden.jpg" alt="" />
+      <img className="picture-garden" src="/garden.jpg" alt="" />
     </div>
   )
 }
