@@ -59,9 +59,6 @@ function App() {
           <Route path='admin/edit-product/:productId' element={ <EditProduct /> } />
           <Route path='admin/maintain-products' element={ <MaintainProducts /> } />
 
-          <Route path='login' element={ <Login /> } />
-          <Route path='signup' element={ <Signup /> } />
-
           <Route path='*' element={ <NotFound /> } />
         </Routes>
       </div>

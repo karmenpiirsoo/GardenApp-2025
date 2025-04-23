@@ -18,6 +18,7 @@ function YourGarden() {
   return (
       <div >
       <img className="picture" src="blog.jpg" alt="" />
+      <br />
       <MuiAutocomplete filterByLocation={filterByLocation} />
       <br />
       {locations.map(area => 
